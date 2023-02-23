@@ -1,2 +1,2 @@
-# login-app
+# loginApp
 apka do logowania
